@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         // Print a simple greeting to the console
         System.out.println("Hello, World!");
-
+//prints Hello, World! in the output
         // Declare variables with specific data types
         int numberOne = 15;
         int numberTwo = 25;
