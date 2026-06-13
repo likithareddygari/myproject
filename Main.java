@@ -15,3 +15,4 @@ public class Main {
         System.out.println("The sum of " + numberOne + " and " + numberTwo + " is: " + summary);
     }
 }
+//push based mechanism testing
